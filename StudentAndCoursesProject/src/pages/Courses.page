@@ -1,4 +1,4 @@
-<apex:page controller="StudentClass">
+<apex:page controller="CourseClass">
     <apex:form >
         <apex:pageBlock title="Courses">
             <apex:pageBlockTable value="{!courses}" var="cour" title="Course_List">
